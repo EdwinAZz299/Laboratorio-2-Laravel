@@ -72,11 +72,11 @@ php artisan serve
 ## Resultados del laboratorio
 Resultado visible del login, registro y dashboard:
 
-(Login.png)
-
 (Register.png)
+![Register](https://github.com/user-attachments/assets/b34ead4a-e83b-4da3-aa18-cc9582daa976)
 
-(Dashboard.png)
+(Login.png)
+![LoginListo](https://github.com/user-attachments/assets/7bd907aa-dbe3-42f0-9326-bcce542fb488)
 
 ## Dificultades y Soluciones
 Error: “Vite manifest not found at public/build/manifest.json” Causa: no se habían compilado los assets de Vite. Solución: ejecutar npm install && npm run dev o npm run build.
